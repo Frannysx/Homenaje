@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">José José</h1>
+      <p>El Príncipe de la Canción</p>
+      <figure id="img-div">
+        <img src="https://st1.uvnimg.com/dims4/default/1e1d501/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F13%2Ff6%2F8ee00c98436a8ef3c692052a9265%2Fjosejose07twitters-b1c78c99eb2f7a543d4eb6316a807748.jpg" 
+             alt="José José: una vida en imágenes | Estaciones de Radio Música | Univision" 
+             id="image">
+        <figcaption id="img-caption">
+          José José, con su voz inigualable y su profunda interpretación, dejó una huella imborrable en la música romántica en español. Su legado sigue vivo en millones de corazones.
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <h3 id="headline">Línea de tiempo de la vida de José José:</h3>
+        <ul>
+          <li><strong>1948</strong> - Nació el 17 de febrero de 1948 en Ciudad de México como José Rómulo Sosa Ortiz.</li>
+          <li>
+            <strong>1963</strong> - A los 15 años, forma parte de un trío llamado Los Peg y toca la guitarra y el bajo. Comienza a cantar en cafés y serenatas para ayudar económicamente a su familia.
+          </li>
+          <li>
+            <strong>1965</strong> - Se une al grupo Los Sinners, con quienes graba algunos temas de rock y bossa nova. Lanza su primer sencillo como solista: Mundo Raro.
+          </li>
+          <li>
+            <strong>1969</strong> - Adopta el nombre artístico de José José, en honor a su padre. Firma con la disquera RCA Víctor y lanza su primer álbum, que incluye la canción La Nave del Olvido, su primer gran éxito.
+          </li>
+          <li>
+            <strong>1970</strong> - Participa en el Festival de la Canción Latina (OTI) con la canción El Triste, compuesta por Roberto Cantoral. Su interpretación es tan impactante que el público lo ovaciona de pie, aunque solo obtiene el tercer lugar. Su presentación en este festival lo convierte en una estrella de la música en español.
+          </li>
+          <li>
+            <strong>2019</strong> - Fallece el 28 de septiembre de 2019 en Miami, Florida, a los 71 años. Su muerte conmociona a toda la comunidad latina y se realizan homenajes en México y el mundo.
+          </li>
+        </ul>
+      </section>
+      <a id="tribute-link" href="https://es.wikipedia.org/wiki/Jos%C3%A9_Jos%C3%A9" target="_blank">Más información sobre José José</a>
+    </main>
+  </body>
+</html>
